@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Local-only: course PDFs and the design write-up — not part of the submission
+assignmentFolder/
+docs/
